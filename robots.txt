@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ahmed-alnour123.github.io/sitemap.xml
