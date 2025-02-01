@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ahmedalnour.com/posts/introduction/</loc>
+    <lastmod>2024-07-11T23:20:01+02:00</lastmod>
+  </url><url>
     <loc>https://ahmedalnour.com/</loc>
     <lastmod>2024-07-12T22:03:11+02:00</lastmod>
   </url><url>
@@ -11,10 +14,11 @@
     <loc>https://ahmedalnour.com/info/</loc>
     <lastmod>2024-07-12T21:57:06+02:00</lastmod>
   </url><url>
-    <loc>https://ahmedalnour.com/posts/introduction/</loc>
-    <lastmod>2024-07-11T23:20:01+02:00</lastmod>
+    <loc>https://ahmedalnour.com/archives/</loc>
   </url><url>
     <loc>https://ahmedalnour.com/categories/</loc>
+  </url><url>
+    <loc>https://ahmedalnour.com/search/</loc>
   </url><url>
     <loc>https://ahmedalnour.com/tags/</loc>
   </url>
