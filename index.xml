@@ -6,8 +6,8 @@
     <description>Recent content on Ahmed Alnour</description>
     <image>
       <title>Ahmed Alnour</title>
-      <url>https://ahmedalnour.com/me.png</url>
-      <link>https://ahmedalnour.com/me.png</link>
+      <url>https://ahmedalnour.com/images/blog_cover.png</url>
+      <link>https://ahmedalnour.com/images/blog_cover.png</link>
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
@@ -15,9 +15,9 @@
     <atom:link href="https://ahmedalnour.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I?</title>
-      <link>https://ahmedalnour.com/posts/introduction/</link>
+      <link>https://ahmedalnour.com/posts/about/</link>
       <pubDate>Thu, 11 Jul 2024 23:20:01 +0200</pubDate>
-      <guid>https://ahmedalnour.com/posts/introduction/</guid>
+      <guid>https://ahmedalnour.com/posts/about/</guid>
       <description>I&amp;rsquo;m a game developer who&amp;rsquo;s eager to create fun, interactive and polished games. I&amp;rsquo;m always challenging myself to explore new things and push the boundaries of what&amp;rsquo;s possible.
 I have 5 years of experience in the industry, and I&amp;rsquo;ve worked on a variety of projects. I&amp;rsquo;m skilled in a variety of programming languages and game engines, and I&amp;rsquo;m always learning new things.
 I&amp;rsquo;m also a problem solver and creative thinker and I&amp;rsquo;m always coming up with new ideas.</description>
