@@ -11,14 +11,28 @@
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jul 2024 23:20:01 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 21:58:57 +0200</lastBuildDate>
     <atom:link href="https://ahmedalnour.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I?</title>
       <link>https://ahmedalnour.com/posts/about/</link>
       <pubDate>Thu, 11 Jul 2024 23:20:01 +0200</pubDate>
       <guid>https://ahmedalnour.com/posts/about/</guid>
-      <description>this is a description</description>
+      <description>Welcome to my website, join me in my journey and let’s have fun together</description>
+    </item>
+    <item>
+      <title>مصادر تعلم الرياضيات</title>
+      <link>https://ahmedalnour.com/posts/learn-maths/</link>
+      <pubDate>Thu, 06 Feb 2025 21:58:57 +0200</pubDate>
+      <guid>https://ahmedalnour.com/posts/learn-maths/</guid>
+      <description>مصادر تعلم الرياضيات</description>
+    </item>
+    <item>
+      <title>تعلم اللغة الألمانية</title>
+      <link>https://ahmedalnour.com/posts/learn-german/</link>
+      <pubDate>Tue, 04 Feb 2025 16:44:19 +0200</pubDate>
+      <guid>https://ahmedalnour.com/posts/learn-german/</guid>
+      <description>مصادر تعلم اللغة الألمانية</description>
     </item>
   </channel>
 </rss>
